@@ -6,7 +6,7 @@ MM  MMMMM  M 88  `8b. 88.  ... 88.  .88
 MM  MMMMM  M dP   `YP `88888P' `8888P88 
 MMMMMMMMMMMM                        .88 
                                 d8888P  
-Version 1.0
+RKey Version 1.0
 Keylogger by Rivek Raj Tamang
 
 Handles: https://www.linkedin.com/in/rivektamang/
