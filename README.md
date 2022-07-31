@@ -22,6 +22,7 @@ git clone https://github.com/Rivek619/Rkey.git
 fix errors with 🧑‍🔧 :-
 
 python -m pip install pynput
+
 sudo pip3 install --upgrade pyfiglet
 
 
