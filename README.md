@@ -11,6 +11,7 @@ This is a simple keylogger in the first stage, further in the future this will b
 For now Enjoy the Repository.
 
 ⚠️ Disclaimer ⚠️
+
 This Keylogger project is for educational purposes only.
 Do not make use of this in an illegal way or harm others. You will be solely responsible for it not me.
 
